@@ -7,7 +7,7 @@ Obsahuje repozitáře s texty k Python kurzům na [kodim.cz](https://www.kodim.c
 
 Pokud se vám něco v textu nezdá, stačí nejprve otevřít issue k diskuzi. Není nutné hned posílat PR.
 
-_Pozn.: Jedná se o subjektivní popis práce s GitHubem. Není to to jedinná možnost. Možná jsou i jednodušší cesty._
+_Pozn.: Jedná se o subjektivní popis práce s GitHubem. Není to to jediná možnost. Možná jsou i jednodušší cesty._
 
 * Forkněte si příslušené _repo_
 * Naklonujte si váš _fork_

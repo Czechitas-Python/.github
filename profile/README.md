@@ -31,7 +31,7 @@ git remote add upstream https://github.com/Czechitas-Python/uvod-do-progr-1.git
 * Kdo má právo zápisu do repa, může vytvářet větve přímo v repu a nemusí pracovat se svým _forkem_
 * Po zamergování PR vždy smažeme původní větev ze společného repa
 * PR musí mít vždy alespoň jedno review
-* PR akceptuje autor (pokud má právo zápisu), ne reviewer, popř. garant kurzu
+* PR akceptuje autor (pokud má právo zápisu), ne reviewer. Pokud autor nemá právo zápisu, PR akceptuje garant kurzu nebo garantem pověřená osoba.
 * PR se akceptuje pomocí _Squash commits and rebase_ pokud má víc commitů (další commity fixovaly ten PR), jeden commit se zamergovává _Rebase and merge_, merge commity jsou vypnuty
 
 

@@ -41,4 +41,4 @@ Obsahuje přehlednou stránku se všemi otevřenými PR a issues pro repozitář
 
 ## Czechitas-Python owners
 
-[@podlomar](https://github.com/podlomar), [@pesikj](https://github.com/pesikj), [@lutydlitatova](https://github.com/lutydlitatova), [@ZelenyMartin](https://github.com/ZelenyMartin)
+[@podlomar](https://github.com/podlomar), [@pesikj](https://github.com/pesikj), [@lutydlitatova](https://github.com/lutydlitatova), [@ZelenyMartin](https://github.com/ZelenyMartin), [@andywaltlova](https://github.com/andywaltlova)
